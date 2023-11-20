@@ -4,3 +4,5 @@ Selenium
 Maven
 Selenium
 Data Driven
+Junit
+TestNG
